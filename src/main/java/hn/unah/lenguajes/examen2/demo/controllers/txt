@@ -1,0 +1,5 @@
+4. creamos el controlador ⇒ esta es una clase también
+    1. ponemos la anotación @RestController a la clase
+    2. creamos la ruta principal con el @RequestMappin(”/api”)
+    3. inyectamos las implementaciones que hemos hecho con la anotación @Autowired
+    4. creamos las rutas de los métodos que vamos a utilizar
