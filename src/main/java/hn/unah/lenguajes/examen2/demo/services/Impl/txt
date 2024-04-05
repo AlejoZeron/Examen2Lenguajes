@@ -1,5 +1,0 @@
-3. creamos la implementación ⇒ esta es una clase
-    1. ponemos la anotación @Service
-    2. implementamos el servicio creado previamente a la clase
-    3. aquí creamos los métodos dándoles lógica, estos los generamos directamente con el IDE
-    4. aquí se pone la inyección de los repositories con la anotación @Autowired
